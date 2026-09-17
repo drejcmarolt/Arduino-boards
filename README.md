@@ -1,2 +1,2 @@
 # Arduino-boards
-S programskim okoljem Arduino IDE sem naredil primere programa s ploščama Nicla Sense ME in Arduino Nano.
+S programskim okoljem Arduino IDE sem naredil primere programa s ploščo Nicla Sense ME.
